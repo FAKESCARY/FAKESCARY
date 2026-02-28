@@ -11,3 +11,5 @@ A passionate Python Programmer || Discord Bot Developer
 - 📫 How to reach me: mf3380073@gmail.com
 - 😄 Pronouns: FAKESCARY
 - ⚡ Fun fact: I LOVE TECH AND GAMES.
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
