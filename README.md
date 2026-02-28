@@ -10,8 +10,4 @@ A passionate Python Programmer || Discord Bot Developer
 - 💬 Ask me about: Collaboration, Tech Support
 - 📫 How to reach me: mf3380073@gmail.com
 - 😄 Pronouns: FAKESCARY
-- ⚡ Fun fact: I LOVE TECH AND GAMES
-
-socials
-
-Python JavaScript Cloudflare Google Cloud Netlify Apache MariaDB MySQL SQLite Adobe Adobe Creative Cloud Adobe Audition Adobe After Effects Adobe Acrobat Reader nVIDIA Xbox Riot Games Epic Games EA Ubisoft Steam
+- ⚡ Fun fact: I LOVE TECH AND GAMES.
