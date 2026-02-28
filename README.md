@@ -12,4 +12,3 @@ A passionate Python Programmer || Discord Bot Developer
 - 😄 Pronouns: FAKESCARY
 - ⚡ Fun fact: I LOVE TECH AND GAMES.
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
